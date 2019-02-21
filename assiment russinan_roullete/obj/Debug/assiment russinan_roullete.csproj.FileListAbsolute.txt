@@ -1,0 +1,41 @@
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.exe.config
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.exe
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.pdb
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.Form1.resources
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.Properties.Resources.resources
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.exe
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.pdb
+C:\Users\sunny\source\repos\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.Form2.resources
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.Form1.resources
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.game.resources
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.Properties.Resources.resources
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.GenerateResource.cache
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.CoreCompileInputs.cache
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.exe.config
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.exe
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.pdb
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\nunit.framework.dll
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\nunit.framework.pdb
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\nunit.framework.xml
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csprojAssemblyReference.cache
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.CopyComplete
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.exe
+C:\Users\Akash bal\Desktop\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.pdb
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.exe.config
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.exe
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\assiment russinan_roullete.pdb
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\nunit.framework.dll
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\nunit.framework.pdb
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\bin\Debug\nunit.framework.xml
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csprojAssemblyReference.cache
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.Form1.resources
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.game.resources
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment_russinan_roullete.Properties.Resources.resources
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.GenerateResource.cache
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.CoreCompileInputs.cache
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.csproj.CopyComplete
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.exe
+C:\Users\Akash bal\Downloads\game-master\game-master\assiment russinan_roullete\assiment russinan_roullete\obj\Debug\assiment russinan_roullete.pdb
